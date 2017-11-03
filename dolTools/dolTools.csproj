@@ -53,6 +53,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="map\map_simple_normal.png" />
+    <Content Include="web\html\main.html" />
+    <Content Include="web\js\load.js" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
